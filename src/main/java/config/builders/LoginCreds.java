@@ -16,3 +16,4 @@ public class LoginCreds {
     public String getPassword() {
         return password;
     }
+}

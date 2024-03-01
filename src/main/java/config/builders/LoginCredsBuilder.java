@@ -10,10 +10,10 @@ public class LoginCredsBuilder {
         }
 
         public static LoginCredsBuilder fromSystemProperties() {
-            return new LoginCredentialsBuilder();
+            return new LoginCredsBuilder();
         }
 
         public LoginCreds build() {
-            return new LoginCredentials(username, password);
+            return new LoginCreds(username, password);
         }
     }
