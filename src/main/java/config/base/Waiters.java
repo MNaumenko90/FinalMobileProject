@@ -9,8 +9,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-import static mobile.config.driver.DriverInit.getDriver;
-import static mobile.utils.Utils.f;
+import static config.driver.DriverInit.getDriver;
+import static utills.Utils.f;
 
 public class Waiters {
 
