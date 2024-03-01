@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e17afea9-4827-499f-ae6d-b2dff35e67f7" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/po/ArticlePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/po/ListSavedArticlePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/po/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/po/SavePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/po/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/po/SkipPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/ListSavedArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/SearchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArticleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LogInTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/base/Waiters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/base/Waiters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/config/builders/LoginCreds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/builders/LoginCreds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/builders/LoginCredsBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/builders/LoginCredsBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/driver/DriverInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/driver/DriverInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/props/BaseConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/props/BaseConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utills/Utills.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utills/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709310850800</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1709312967285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709312967285</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

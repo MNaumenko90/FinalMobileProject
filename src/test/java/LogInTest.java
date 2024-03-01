@@ -4,9 +4,7 @@ import config.builders.LoginCreds;
 import config.builders.LoginCredsBuilder;
 import po.SkipPage;
 import services.LoginService;
-
 import org.testng.annotations.Test;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
 
