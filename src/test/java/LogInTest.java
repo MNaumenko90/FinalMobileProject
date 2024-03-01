@@ -1,4 +1,3 @@
-
 import config.base.BaseMethods;
 import config.builders.LoginCreds;
 import config.builders.LoginCredsBuilder;
@@ -9,10 +8,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
 public class LogInTest extends BaseMethods {
-
     @Test
     void shouldBeLoggedIn(){
-
         new SkipPage().clickSkip();
         new LoginService().clickLoginButtons();
         LoginCreds credentials = LoginCredsBuilder.fromSystemProperties().build();
