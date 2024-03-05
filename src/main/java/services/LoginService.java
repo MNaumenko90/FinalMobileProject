@@ -1,5 +1,5 @@
 package services;
-import config.builders.LoginCreds;
+import config.buiders.LoginCreds;
 import config.base.BaseMethods;
 import po.LoginPage;
 

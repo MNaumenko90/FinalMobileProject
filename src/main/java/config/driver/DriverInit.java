@@ -3,7 +3,7 @@ package config.driver;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import lombok.SneakyThrows;
-import mobile.config.props.BaseConfig;
+import config.props.BaseConfig;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.URL;

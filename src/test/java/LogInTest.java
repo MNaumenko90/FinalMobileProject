@@ -1,6 +1,6 @@
 import config.base.BaseMethods;
-import config.builders.LoginCreds;
-import config.builders.LoginCredsBuilder;
+import config.buiders.LoginCreds;
+import config.buiders.LoginCredsBuilder;
 import po.SkipPage;
 import services.LoginService;
 import org.testng.annotations.Test;

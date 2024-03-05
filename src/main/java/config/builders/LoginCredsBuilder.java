@@ -13,7 +13,7 @@ public class LoginCredsBuilder {
             return new LoginCredsBuilder();
         }
 
-        public LoginCreds build() {
+        public config.buiders.LoginCreds build() {
             return new LoginCreds(username, password);
         }
     }
